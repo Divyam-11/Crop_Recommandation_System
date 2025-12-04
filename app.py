@@ -4,7 +4,7 @@ import pickle
 import numpy as np
 # Assuming you have these scikit-learn classes installed
 from sklearn.preprocessing import StandardScaler, OrdinalEncoder
-import traceback # For better error logging
+import traceback # For better errlor logging
 
 # Initialize Flask app
 app = Flask(__name__)
@@ -49,7 +49,8 @@ model_feature_order = numerical_features + categorical_features # Order matters!
 @app.route('/predict', methods=['POST'])
 def predict():
     try:
-        # Get data from POST request (expected JSON)
+        # Get data from POST
+        #  request (expected JSON)
         data = request.get_json()
         if not data:
             return jsonify({'error': 'No input data provided'}), 400
