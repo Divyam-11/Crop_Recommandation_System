@@ -46,6 +46,11 @@ categorical_features = ['Soil']
 model_feature_order = numerical_features + categorical_features # Order matters!
 
 
+@app.route('/health', methods=['GET'])
+def health():
+    return jsonify({'status': 'ok', 'model_loaded': True})
+
+
 @app.route('/predict', methods=['POST'])
 def predict():
     try:

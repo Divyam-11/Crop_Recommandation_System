@@ -1,0 +1,2000 @@
+[
+  {
+    "name": "Adzuki Beans",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Loamy Soil",
+      "Neutral Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 52.69,
+      "Humidity": 52.43,
+      "Rainfall": 106.8,
+      "PH": 6.2,
+      "Nitrogen": 66.21,
+      "Phosphorous": 67.52,
+      "Potassium": 74.29,
+      "Carbon": 1.46
+    },
+    "ranges": {
+      "Temperature": [
+        50.36,
+        54.78
+      ],
+      "Humidity": [
+        40.86,
+        64.32
+      ],
+      "Rainfall": [
+        54.12,
+        168.54
+      ],
+      "PH": [
+        5.1,
+        7.36
+      ],
+      "Nitrogen": [
+        57.54,
+        74.96
+      ],
+      "Phosphorous": [
+        37.99,
+        147.2
+      ],
+      "Potassium": [
+        45.09,
+        146.76
+      ],
+      "Carbon": [
+        0.51,
+        2.5
+      ]
+    },
+    "sample": {
+      "Temperature": 51.39517949,
+      "Humidity": 46.57918798,
+      "Rainfall": 105.2723287,
+      "PH": 6.332918625,
+      "Nitrogen": 64.0,
+      "Phosphorous": 50.95,
+      "Potassium": 61.04,
+      "Carbon": 2.08,
+      "Soil": "Acidic Soil"
+    }
+  },
+  {
+    "name": "Black gram",
+    "count": 100,
+    "soils": [
+      "Alkaline Soil",
+      "Loamy Soil",
+      "Neutral Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 29.96,
+      "Humidity": 65.11,
+      "Rainfall": 67.9,
+      "PH": 7.13,
+      "Nitrogen": 57.35,
+      "Phosphorous": 98.18,
+      "Potassium": 78.98,
+      "Carbon": 1.45
+    },
+    "ranges": {
+      "Temperature": [
+        25.65,
+        34.14
+      ],
+      "Humidity": [
+        60.44,
+        69.1
+      ],
+      "Rainfall": [
+        61.7,
+        74.22
+      ],
+      "PH": [
+        6.54,
+        7.71
+      ],
+      "Nitrogen": [
+        56.02,
+        58.9
+      ],
+      "Phosphorous": [
+        57.1,
+        146.26
+      ],
+      "Potassium": [
+        52.76,
+        147.08
+      ],
+      "Carbon": [
+        0.51,
+        2.47
+      ]
+    },
+    "sample": {
+      "Temperature": 29.48439992,
+      "Humidity": 63.19915325,
+      "Rainfall": 71.89090748,
+      "PH": 7.454532137,
+      "Nitrogen": 57.44,
+      "Phosphorous": 71.71,
+      "Potassium": 61.09,
+      "Carbon": 1.28,
+      "Soil": "Loamy Soil"
+    }
+  },
+  {
+    "name": "Chickpea",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Alkaline Soil",
+      "Loamy Soil",
+      "Neutral Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 18.87,
+      "Humidity": 16.86,
+      "Rainfall": 80.13,
+      "PH": 7.34,
+      "Nitrogen": 51.41,
+      "Phosphorous": 41.98,
+      "Potassium": 65.8,
+      "Carbon": 1.46
+    },
+    "ranges": {
+      "Temperature": [
+        17.16,
+        20.72
+      ],
+      "Humidity": [
+        14.42,
+        19.69
+      ],
+      "Rainfall": [
+        68.47,
+        93.36
+      ],
+      "PH": [
+        6.18,
+        8.74
+      ],
+      "Nitrogen": [
+        51.04,
+        51.8
+      ],
+      "Phosphorous": [
+        33.02,
+        74.41
+      ],
+      "Potassium": [
+        46.23,
+        140.96
+      ],
+      "Carbon": [
+        0.53,
+        2.49
+      ]
+    },
+    "sample": {
+      "Temperature": 17.16485385,
+      "Humidity": 16.98861173,
+      "Rainfall": 88.55123143,
+      "PH": 7.485996067,
+      "Nitrogen": 51.42,
+      "Phosphorous": 40.49,
+      "Potassium": 64.29,
+      "Carbon": 0.92,
+      "Soil": "Neutral Soil"
+    }
+  },
+  {
+    "name": "Coconut",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 27.4,
+      "Humidity": 94.86,
+      "Rainfall": 175.79,
+      "PH": 5.98,
+      "Nitrogen": 75.43,
+      "Phosphorous": 60.2,
+      "Potassium": 64.79,
+      "Carbon": 1.4
+    },
+    "ranges": {
+      "Temperature": [
+        25.1,
+        29.53
+      ],
+      "Humidity": [
+        90.98,
+        99.65
+      ],
+      "Rainfall": [
+        134.03,
+        224.32
+      ],
+      "PH": [
+        5.55,
+        6.42
+      ],
+      "Nitrogen": [
+        69.06,
+        83.69
+      ],
+      "Phosphorous": [
+        49.4,
+        78.57
+      ],
+      "Potassium": [
+        54.02,
+        81.89
+      ],
+      "Carbon": [
+        0.5,
+        2.49
+      ]
+    },
+    "sample": {
+      "Temperature": 26.7627493,
+      "Humidity": 92.86056895,
+      "Rainfall": 224.3247255,
+      "PH": 6.420018717,
+      "Nitrogen": 81.01,
+      "Phosphorous": 78.03,
+      "Potassium": 81.889,
+      "Carbon": 1.73,
+      "Soil": "Acidic Soil"
+    }
+  },
+  {
+    "name": "Coffee",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Loamy Soil",
+      "Neutral Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 25.54,
+      "Humidity": 58.86,
+      "Rainfall": 158.13,
+      "PH": 6.79,
+      "Nitrogen": 63.21,
+      "Phosphorous": 96.4,
+      "Potassium": 109.63,
+      "Carbon": 1.43
+    },
+    "ranges": {
+      "Temperature": [
+        23.18,
+        27.58
+      ],
+      "Humidity": [
+        51.09,
+        68.48
+      ],
+      "Rainfall": [
+        120.6,
+        194.92
+      ],
+      "PH": [
+        6.08,
+        7.46
+      ],
+      "Nitrogen": [
+        59.6,
+        67.61
+      ],
+      "Phosphorous": [
+        48.02,
+        147.08
+      ],
+      "Potassium": [
+        64.86,
+        149.03
+      ],
+      "Carbon": [
+        0.52,
+        2.49
+      ]
+    },
+    "sample": {
+      "Temperature": 26.33377983,
+      "Humidity": 57.36469955,
+      "Rainfall": 191.6549412,
+      "PH": 7.261313694,
+      "Nitrogen": 66.08,
+      "Phosphorous": 95.86,
+      "Potassium": 137.79,
+      "Carbon": 1.97,
+      "Soil": "Neutral Soil"
+    }
+  },
+  {
+    "name": "Cotton",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Alkaline Soil",
+      "Loamy Soil",
+      "Neutral Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 23.99,
+      "Humidity": 79.85,
+      "Rainfall": 80.37,
+      "PH": 6.92,
+      "Nitrogen": 58.56,
+      "Phosphorous": 87.44,
+      "Potassium": 69.98,
+      "Carbon": 1.51
+    },
+    "ranges": {
+      "Temperature": [
+        22.14,
+        25.69
+      ],
+      "Humidity": [
+        75.62,
+        84.56
+      ],
+      "Rainfall": [
+        62.64,
+        97.81
+      ],
+      "PH": [
+        6.0,
+        7.95
+      ],
+      "Nitrogen": [
+        56.52,
+        60.78
+      ],
+      "Phosphorous": [
+        53.1,
+        148.64
+      ],
+      "Potassium": [
+        50.2,
+        142.31
+      ],
+      "Carbon": [
+        0.5,
+        2.5
+      ]
+    },
+    "sample": {
+      "Temperature": 24.40228894,
+      "Humidity": 79.19732001,
+      "Rainfall": 90.8022356,
+      "PH": 7.231324765,
+      "Nitrogen": 59.75,
+      "Phosphorous": 132.71,
+      "Potassium": 92.34,
+      "Carbon": 0.86,
+      "Soil": "Neutral Soil"
+    }
+  },
+  {
+    "name": "Ground Nut",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 32.08,
+      "Humidity": 64.74,
+      "Rainfall": 104.75,
+      "PH": 6.23,
+      "Nitrogen": 62.02,
+      "Phosphorous": 56.06,
+      "Potassium": 58.72,
+      "Carbon": 1.4
+    },
+    "ranges": {
+      "Temperature": [
+        30.14,
+        33.84
+      ],
+      "Humidity": [
+        57.09,
+        74.3
+      ],
+      "Rainfall": [
+        69.71,
+        142.95
+      ],
+      "PH": [
+        6.03,
+        6.46
+      ],
+      "Nitrogen": [
+        57.9,
+        67.38
+      ],
+      "Phosphorous": [
+        48.79,
+        65.56
+      ],
+      "Potassium": [
+        50.16,
+        70.53
+      ],
+      "Carbon": [
+        0.5,
+        2.49
+      ]
+    },
+    "sample": {
+      "Temperature": 32.82652632,
+      "Humidity": 60.63131854,
+      "Rainfall": 87.79470512,
+      "PH": 6.192064545,
+      "Nitrogen": 59.71,
+      "Phosphorous": 52.51,
+      "Potassium": 54.49,
+      "Carbon": 0.87,
+      "Soil": "Acidic Soil"
+    }
+  },
+  {
+    "name": "Jute",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Loamy Soil",
+      "Neutral Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 24.96,
+      "Humidity": 79.61,
+      "Rainfall": 174.76,
+      "PH": 6.73,
+      "Nitrogen": 69.23,
+      "Phosphorous": 99.23,
+      "Potassium": 105.9,
+      "Carbon": 1.35
+    },
+    "ranges": {
+      "Temperature": [
+        23.17,
+        26.83
+      ],
+      "Humidity": [
+        71.31,
+        88.39
+      ],
+      "Rainfall": [
+        151.87,
+        196.68
+      ],
+      "PH": [
+        6.07,
+        7.38
+      ],
+      "Nitrogen": [
+        65.21,
+        72.47
+      ],
+      "Phosphorous": [
+        55.73,
+        148.19
+      ],
+      "Potassium": [
+        64.65,
+        149.22
+      ],
+      "Carbon": [
+        0.51,
+        2.37
+      ]
+    },
+    "sample": {
+      "Temperature": 25.52468965,
+      "Humidity": 72.24850829,
+      "Rainfall": 151.8869972,
+      "PH": 6.067231918,
+      "Nitrogen": 65.56,
+      "Phosphorous": 55.7255,
+      "Potassium": 64.653,
+      "Carbon": 0.95,
+      "Soil": "Acidic Soil"
+    }
+  },
+  {
+    "name": "Kidney Beans",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 20.11,
+      "Humidity": 21.61,
+      "Rainfall": 105.89,
+      "PH": 5.75,
+      "Nitrogen": 52.54,
+      "Phosphorous": 35.25,
+      "Potassium": 51.44,
+      "Carbon": 1.35
+    },
+    "ranges": {
+      "Temperature": [
+        15.79,
+        24.33
+      ],
+      "Humidity": [
+        18.29,
+        24.91
+      ],
+      "Rainfall": [
+        63.35,
+        143.87
+      ],
+      "PH": [
+        5.52,
+        5.97
+      ],
+      "Nitrogen": [
+        51.53,
+        53.78
+      ],
+      "Phosphorous": [
+        33.99,
+        36.71
+      ],
+      "Potassium": [
+        46.44,
+        56.62
+      ],
+      "Carbon": [
+        0.51,
+        2.49
+      ]
+    },
+    "sample": {
+      "Temperature": 17.13692774,
+      "Humidity": 20.59541693,
+      "Rainfall": 128.256862,
+      "PH": 5.68597166,
+      "Nitrogen": 52.51,
+      "Phosphorous": 34.7,
+      "Potassium": 53.01,
+      "Carbon": 2.1,
+      "Soil": "Acidic Soil"
+    }
+  },
+  {
+    "name": "Lentil",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Alkaline Soil",
+      "Loamy Soil",
+      "Neutral Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 24.49,
+      "Humidity": 64.8,
+      "Rainfall": 45.67,
+      "PH": 6.93,
+      "Nitrogen": 54.0,
+      "Phosphorous": 86.0,
+      "Potassium": 65.48,
+      "Carbon": 1.48
+    },
+    "ranges": {
+      "Temperature": [
+        18.43,
+        29.22
+      ],
+      "Humidity": [
+        60.47,
+        69.41
+      ],
+      "Rainfall": [
+        36.08,
+        53.32
+      ],
+      "PH": [
+        6.06,
+        7.73
+      ],
+      "Nitrogen": [
+        52.87,
+        55.1
+      ],
+      "Phosphorous": [
+        49.19,
+        147.02
+      ],
+      "Potassium": [
+        46.69,
+        140.72
+      ],
+      "Carbon": [
+        0.54,
+        2.44
+      ]
+    },
+    "sample": {
+      "Temperature": 28.05153602,
+      "Humidity": 63.49802189,
+      "Rainfall": 43.35795377,
+      "PH": 7.604110177,
+      "Nitrogen": 54.29,
+      "Phosphorous": 61.53,
+      "Potassium": 49.57,
+      "Carbon": 0.91,
+      "Soil": "Peaty Soil"
+    }
+  },
+  {
+    "name": "Moth Beans",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Alkaline Soil",
+      "Loamy Soil",
+      "Neutral Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 28.18,
+      "Humidity": 53.16,
+      "Rainfall": 51.17,
+      "PH": 6.83,
+      "Nitrogen": 54.26,
+      "Phosphorous": 44.46,
+      "Potassium": 46.48,
+      "Carbon": 1.55
+    },
+    "ranges": {
+      "Temperature": [
+        24.47,
+        31.23
+      ],
+      "Humidity": [
+        41.8,
+        63.05
+      ],
+      "Rainfall": [
+        32.67,
+        72.22
+      ],
+      "PH": [
+        3.69,
+        9.41
+      ],
+      "Nitrogen": [
+        52.55,
+        56.86
+      ],
+      "Phosphorous": [
+        34.33,
+        75.6
+      ],
+      "Potassium": [
+        41.84,
+        63.03
+      ],
+      "Carbon": [
+        0.51,
+        2.49
+      ]
+    },
+    "sample": {
+      "Temperature": 27.91095209,
+      "Humidity": 63.05420687,
+      "Rainfall": 32.67891866,
+      "PH": 3.692863601,
+      "Nitrogen": 53.28,
+      "Phosphorous": 35.87,
+      "Potassium": 41.8415,
+      "Carbon": 0.88,
+      "Soil": "Acidic Soil"
+    }
+  },
+  {
+    "name": "Mung Bean",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Loamy Soil",
+      "Neutral Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 28.53,
+      "Humidity": 85.5,
+      "Rainfall": 48.39,
+      "PH": 6.72,
+      "Nitrogen": 56.56,
+      "Phosphorous": 113.24,
+      "Potassium": 76.01,
+      "Carbon": 1.58
+    },
+    "ranges": {
+      "Temperature": [
+        27.11,
+        29.87
+      ],
+      "Humidity": [
+        80.45,
+        89.72
+      ],
+      "Rainfall": [
+        37.23,
+        58.55
+      ],
+      "PH": [
+        6.27,
+        7.17
+      ],
+      "Nitrogen": [
+        54.88,
+        58.24
+      ],
+      "Phosphorous": [
+        64.75,
+        148.81
+      ],
+      "Potassium": [
+        49.36,
+        144.76
+      ],
+      "Carbon": [
+        0.54,
+        2.49
+      ]
+    },
+    "sample": {
+      "Temperature": 27.43329405,
+      "Humidity": 87.80507732,
+      "Rainfall": 54.73367631,
+      "PH": 7.16602455,
+      "Nitrogen": 57.32,
+      "Phosphorous": 148.6912,
+      "Potassium": 79.38,
+      "Carbon": 1.21,
+      "Soil": "Loamy Soil"
+    }
+  },
+  {
+    "name": "Peas",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Loamy Soil",
+      "Neutral Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 17.56,
+      "Humidity": 13.53,
+      "Rainfall": 50.4,
+      "PH": 6.43,
+      "Nitrogen": 50.67,
+      "Phosphorous": 48.17,
+      "Potassium": 63.92,
+      "Carbon": 1.56
+    },
+    "ranges": {
+      "Temperature": [
+        16.18,
+        18.86
+      ],
+      "Humidity": [
+        13.04,
+        13.95
+      ],
+      "Rainfall": [
+        45.65,
+        54.55
+      ],
+      "PH": [
+        5.89,
+        6.96
+      ],
+      "Nitrogen": [
+        50.58,
+        50.75
+      ],
+      "Phosphorous": [
+        33.64,
+        140.09
+      ],
+      "Potassium": [
+        45.91,
+        144.74
+      ],
+      "Carbon": [
+        0.52,
+        2.49
+      ]
+    },
+    "sample": {
+      "Temperature": 18.35874828,
+      "Humidity": 13.38236458,
+      "Rainfall": 54.55368154,
+      "PH": 6.249825412,
+      "Nitrogen": 50.75,
+      "Phosphorous": 35.35,
+      "Potassium": 49.75,
+      "Carbon": 1.53,
+      "Soil": "Acidic Soil"
+    }
+  },
+  {
+    "name": "Pigeon Peas",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Loamy Soil",
+      "Neutral Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 27.75,
+      "Humidity": 48.04,
+      "Rainfall": 149.5,
+      "PH": 5.79,
+      "Nitrogen": 60.89,
+      "Phosphorous": 55.54,
+      "Potassium": 69.74,
+      "Carbon": 1.57
+    },
+    "ranges": {
+      "Temperature": [
+        19.03,
+        36.21
+      ],
+      "Humidity": [
+        32.45,
+        66.71
+      ],
+      "Rainfall": [
+        94.4,
+        195.58
+      ],
+      "PH": [
+        4.67,
+        7.17
+      ],
+      "Nitrogen": [
+        55.51,
+        68.3
+      ],
+      "Phosphorous": [
+        34.65,
+        144.95
+      ],
+      "Potassium": [
+        46.38,
+        144.98
+      ],
+      "Carbon": [
+        0.52,
+        2.49
+      ]
+    },
+    "sample": {
+      "Temperature": 36.21424483,
+      "Humidity": 57.92887167,
+      "Rainfall": 122.6539694,
+      "PH": 6.03160778,
+      "Nitrogen": 64.41,
+      "Phosphorous": 47.95,
+      "Potassium": 56.89,
+      "Carbon": 1.93,
+      "Soil": "Acidic Soil"
+    }
+  },
+  {
+    "name": "Rubber",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 27.06,
+      "Humidity": 70.46,
+      "Rainfall": 292.41,
+      "PH": 5.29,
+      "Nitrogen": 81.06,
+      "Phosphorous": 43.16,
+      "Potassium": 64.27,
+      "Carbon": 1.48
+    },
+    "ranges": {
+      "Temperature": [
+        21.32,
+        33.23
+      ],
+      "Humidity": [
+        61.05,
+        78.99
+      ],
+      "Rainfall": [
+        205.46,
+        385.09
+      ],
+      "PH": [
+        4.58,
+        5.91
+      ],
+      "Nitrogen": [
+        68.51,
+        96.2
+      ],
+      "Phosphorous": [
+        38.71,
+        49.62
+      ],
+      "Potassium": [
+        53.0,
+        80.79
+      ],
+      "Carbon": [
+        0.5,
+        2.5
+      ]
+    },
+    "sample": {
+      "Temperature": 31.48468379,
+      "Humidity": 72.73930065,
+      "Rainfall": 329.318524,
+      "PH": 5.39798897,
+      "Nitrogen": 91.9,
+      "Phosphorous": 43.62,
+      "Potassium": 67.41,
+      "Carbon": 1.75,
+      "Soil": "Acidic Soil"
+    }
+  },
+  {
+    "name": "Sugarcane",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Alkaline Soil",
+      "Loamy Soil",
+      "Neutral Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 27.51,
+      "Humidity": 80.04,
+      "Rainfall": 139.84,
+      "PH": 6.93,
+      "Nitrogen": 67.13,
+      "Phosphorous": 73.26,
+      "Potassium": 75.43,
+      "Carbon": 1.54
+    },
+    "ranges": {
+      "Temperature": [
+        25.34,
+        29.64
+      ],
+      "Humidity": [
+        75.94,
+        84.59
+      ],
+      "Rainfall": [
+        104.93,
+        170.38
+      ],
+      "PH": [
+        5.22,
+        8.37
+      ],
+      "Nitrogen": [
+        62.56,
+        71.81
+      ],
+      "Phosphorous": [
+        43.86,
+        148.39
+      ],
+      "Potassium": [
+        50.28,
+        144.93
+      ],
+      "Carbon": [
+        0.51,
+        2.44
+      ]
+    },
+    "sample": {
+      "Temperature": 28.40979139,
+      "Humidity": 81.21372954,
+      "Rainfall": 170.3307535,
+      "PH": 8.062750241,
+      "Nitrogen": 71.8105,
+      "Phosphorous": 52.93,
+      "Potassium": 61.37,
+      "Carbon": 1.87,
+      "Soil": "Peaty Soil"
+    }
+  },
+  {
+    "name": "Tea",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 24.41,
+      "Humidity": 60.1,
+      "Rainfall": 204.26,
+      "PH": 4.75,
+      "Nitrogen": 66.66,
+      "Phosphorous": 38.05,
+      "Potassium": 52.15,
+      "Carbon": 1.47
+    },
+    "ranges": {
+      "Temperature": [
+        21.31,
+        27.66
+      ],
+      "Humidity": [
+        55.38,
+        64.39
+      ],
+      "Rainfall": [
+        155.07,
+        247.21
+      ],
+      "PH": [
+        4.52,
+        4.97
+      ],
+      "Nitrogen": [
+        61.69,
+        71.64
+      ],
+      "Phosphorous": [
+        37.04,
+        39.03
+      ],
+      "Potassium": [
+        49.08,
+        55.42
+      ],
+      "Carbon": [
+        0.53,
+        2.49
+      ]
+    },
+    "sample": {
+      "Temperature": 27.6557178,
+      "Humidity": 60.50275586,
+      "Rainfall": 186.5498269,
+      "PH": 4.800908436,
+      "Nitrogen": 68.17,
+      "Phosphorous": 38.25,
+      "Potassium": 51.31,
+      "Carbon": 1.51,
+      "Soil": "Acidic Soil"
+    }
+  },
+  {
+    "name": "Tobacco",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 23.64,
+      "Humidity": 64.5,
+      "Rainfall": 79.9,
+      "PH": 6.01,
+      "Nitrogen": 56.76,
+      "Phosphorous": 49.89,
+      "Potassium": 50.95,
+      "Carbon": 1.49
+    },
+    "ranges": {
+      "Temperature": [
+        19.3,
+        27.78
+      ],
+      "Humidity": [
+        60.52,
+        69.53
+      ],
+      "Rainfall": [
+        75.47,
+        84.26
+      ],
+      "PH": [
+        5.83,
+        6.19
+      ],
+      "Nitrogen": [
+        55.26,
+        58.19
+      ],
+      "Phosphorous": [
+        46.31,
+        53.85
+      ],
+      "Potassium": [
+        48.89,
+        53.29
+      ],
+      "Carbon": [
+        0.52,
+        2.48
+      ]
+    },
+    "sample": {
+      "Temperature": 26.15437489,
+      "Humidity": 62.66283353,
+      "Rainfall": 83.08034802,
+      "PH": 6.098737301,
+      "Nitrogen": 57.56,
+      "Phosphorous": 50.86,
+      "Potassium": 52.29,
+      "Carbon": 0.84,
+      "Soil": "Acidic Soil"
+    }
+  },
+  {
+    "name": "apple",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 22.63,
+      "Humidity": 92.33,
+      "Rainfall": 112.69,
+      "PH": 5.93,
+      "Nitrogen": 63.08,
+      "Phosphorous": 57.69,
+      "Potassium": 54.97,
+      "Carbon": 1.46
+    },
+    "ranges": {
+      "Temperature": [
+        21.17,
+        23.83
+      ],
+      "Humidity": [
+        90.24,
+        94.68
+      ],
+      "Rainfall": [
+        102.24,
+        123.6
+      ],
+      "PH": [
+        5.56,
+        6.4
+      ],
+      "Nitrogen": [
+        61.48,
+        64.56
+      ],
+      "Phosphorous": [
+        49.0,
+        75.99
+      ],
+      "Potassium": [
+        50.05,
+        64.74
+      ],
+      "Carbon": [
+        0.5,
+        2.5
+      ]
+    },
+    "sample": {
+      "Temperature": 22.75088787,
+      "Humidity": 90.69489172,
+      "Rainfall": 110.4317855,
+      "PH": 5.559136606,
+      "Nitrogen": 62.66,
+      "Phosphorous": 48.998,
+      "Potassium": 50.0455,
+      "Carbon": 1.38,
+      "Soil": "Acidic Soil"
+    }
+  },
+  {
+    "name": "banana",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 27.37,
+      "Humidity": 80.37,
+      "Rainfall": 104.62,
+      "PH": 5.99,
+      "Nitrogen": 62.77,
+      "Phosphorous": 55.63,
+      "Potassium": 54.6,
+      "Carbon": 1.55
+    },
+    "ranges": {
+      "Temperature": [
+        25.15,
+        29.42
+      ],
+      "Humidity": [
+        76.11,
+        84.52
+      ],
+      "Rainfall": [
+        90.81,
+        119.0
+      ],
+      "PH": [
+        5.57,
+        6.44
+      ],
+      "Nitrogen": [
+        60.84,
+        64.98
+      ],
+      "Phosphorous": [
+        46.39,
+        73.27
+      ],
+      "Potassium": [
+        49.34,
+        61.79
+      ],
+      "Carbon": [
+        0.51,
+        2.49
+      ]
+    },
+    "sample": {
+      "Temperature": 29.36792366,
+      "Humidity": 76.24900101,
+      "Rainfall": 92.82840911,
+      "PH": 6.149934034,
+      "Nitrogen": 61.55,
+      "Phosphorous": 56.91,
+      "Potassium": 54.56,
+      "Carbon": 0.89,
+      "Soil": "Acidic Soil"
+    }
+  },
+  {
+    "name": "grapes",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 23.83,
+      "Humidity": 81.87,
+      "Rainfall": 69.61,
+      "PH": 6.03,
+      "Nitrogen": 57.56,
+      "Phosphorous": 57.91,
+      "Potassium": 50.5,
+      "Carbon": 1.49
+    },
+    "ranges": {
+      "Temperature": [
+        9.94,
+        40.69
+      ],
+      "Humidity": [
+        80.12,
+        83.72
+      ],
+      "Rainfall": [
+        65.52,
+        74.41
+      ],
+      "PH": [
+        5.56,
+        6.48
+      ],
+      "Nitrogen": [
+        53.1,
+        63.18
+      ],
+      "Phosphorous": [
+        47.03,
+        76.94
+      ],
+      "Potassium": [
+        46.44,
+        57.01
+      ],
+      "Carbon": [
+        0.5,
+        2.49
+      ]
+    },
+    "sample": {
+      "Temperature": 29.99677232,
+      "Humidity": 81.54156612,
+      "Rainfall": 67.12534492,
+      "PH": 6.112305667,
+      "Nitrogen": 59.12,
+      "Phosphorous": 57.56,
+      "Potassium": 50.08,
+      "Carbon": 1.43,
+      "Soil": "Acidic Soil"
+    }
+  },
+  {
+    "name": "maize",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Loamy Soil",
+      "Neutral Soil"
+    ],
+    "mean": {
+      "Temperature": 22.39,
+      "Humidity": 65.1,
+      "Rainfall": 84.79,
+      "PH": 6.24,
+      "Nitrogen": 56.9,
+      "Phosphorous": 69.02,
+      "Potassium": 65.12,
+      "Carbon": 1.47
+    },
+    "ranges": {
+      "Temperature": [
+        18.28,
+        25.98
+      ],
+      "Humidity": [
+        56.5,
+        73.59
+      ],
+      "Rainfall": [
+        63.03,
+        108.52
+      ],
+      "PH": [
+        5.59,
+        6.87
+      ],
+      "Nitrogen": [
+        54.49,
+        60.11
+      ],
+      "Phosphorous": [
+        43.83,
+        145.22
+      ],
+      "Potassium": [
+        46.84,
+        141.69
+      ],
+      "Carbon": [
+        0.52,
+        2.46
+      ]
+    },
+    "sample": {
+      "Temperature": 22.61359953,
+      "Humidity": 63.69070564,
+      "Rainfall": 87.75953857,
+      "PH": 5.749914421,
+      "Nitrogen": 57.02,
+      "Phosphorous": 45.28,
+      "Potassium": 49.36,
+      "Carbon": 2.33,
+      "Soil": "Acidic Soil"
+    }
+  },
+  {
+    "name": "mango",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Loamy Soil",
+      "Neutral Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 31.2,
+      "Humidity": 50.15,
+      "Rainfall": 94.7,
+      "PH": 5.77,
+      "Nitrogen": 58.23,
+      "Phosphorous": 51.88,
+      "Potassium": 58.1,
+      "Carbon": 1.47
+    },
+    "ranges": {
+      "Temperature": [
+        27.35,
+        35.54
+      ],
+      "Humidity": [
+        45.56,
+        54.4
+      ],
+      "Rainfall": [
+        89.97,
+        100.22
+      ],
+      "PH": [
+        4.67,
+        6.82
+      ],
+      "Nitrogen": [
+        56.86,
+        59.71
+      ],
+      "Phosphorous": [
+        36.32,
+        113.82
+      ],
+      "Potassium": [
+        45.36,
+        108.79
+      ],
+      "Carbon": [
+        0.5,
+        2.47
+      ]
+    },
+    "sample": {
+      "Temperature": 29.73770045,
+      "Humidity": 47.54885174,
+      "Rainfall": 90.09586854,
+      "PH": 5.954626604,
+      "Nitrogen": 57.08,
+      "Phosphorous": 43.65,
+      "Potassium": 51.49,
+      "Carbon": 0.63,
+      "Soil": "Acidic Soil"
+    }
+  },
+  {
+    "name": "millet",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Alkaline Soil",
+      "Loamy Soil",
+      "Neutral Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 44.76,
+      "Humidity": 12.76,
+      "Rainfall": 42.54,
+      "PH": 6.76,
+      "Nitrogen": 51.34,
+      "Phosphorous": 43.53,
+      "Potassium": 60.27,
+      "Carbon": 1.51
+    },
+    "ranges": {
+      "Temperature": [
+        40.4,
+        49.52
+      ],
+      "Humidity": [
+        10.2,
+        15.34
+      ],
+      "Rainfall": [
+        35.66,
+        48.82
+      ],
+      "PH": [
+        5.72,
+        7.85
+      ],
+      "Nitrogen": [
+        51.02,
+        51.69
+      ],
+      "Phosphorous": [
+        32.9,
+        102.09
+      ],
+      "Potassium": [
+        44.29,
+        141.77
+      ],
+      "Carbon": [
+        0.61,
+        2.47
+      ]
+    },
+    "sample": {
+      "Temperature": 45.38352611,
+      "Humidity": 12.81876216,
+      "Rainfall": 45.7523396,
+      "PH": 5.932240602,
+      "Nitrogen": 51.48,
+      "Phosphorous": 33.6,
+      "Potassium": 45.71,
+      "Carbon": 1.04,
+      "Soil": "Peaty Soil"
+    }
+  },
+  {
+    "name": "muskmelon",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Loamy Soil",
+      "Neutral Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 28.66,
+      "Humidity": 92.35,
+      "Rainfall": 24.69,
+      "PH": 6.36,
+      "Nitrogen": 53.63,
+      "Phosphorous": 80.92,
+      "Potassium": 46.05,
+      "Carbon": 1.46
+    },
+    "ranges": {
+      "Temperature": [
+        27.11,
+        29.87
+      ],
+      "Humidity": [
+        90.33,
+        94.79
+      ],
+      "Rainfall": [
+        20.76,
+        28.99
+      ],
+      "PH": [
+        6.04,
+        6.74
+      ],
+      "Nitrogen": [
+        52.97,
+        54.34
+      ],
+      "Phosphorous": [
+        58.8,
+        134.76
+      ],
+      "Potassium": [
+        43.32,
+        52.99
+      ],
+      "Carbon": [
+        0.53,
+        2.48
+      ]
+    },
+    "sample": {
+      "Temperature": 27.57826922,
+      "Humidity": 94.11878202,
+      "Rainfall": 28.08253201,
+      "PH": 6.741269235,
+      "Nitrogen": 54.05,
+      "Phosphorous": 134.7555,
+      "Potassium": 52.986,
+      "Carbon": 0.89,
+      "Soil": "Neutral Soil"
+    }
+  },
+  {
+    "name": "orange",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Alkaline Soil",
+      "Loamy Soil",
+      "Neutral Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 22.77,
+      "Humidity": 92.16,
+      "Rainfall": 110.49,
+      "PH": 7.02,
+      "Nitrogen": 62.89,
+      "Phosphorous": 95.02,
+      "Potassium": 82.38,
+      "Carbon": 1.47
+    },
+    "ranges": {
+      "Temperature": [
+        11.02,
+        34.08
+      ],
+      "Humidity": [
+        90.15,
+        94.55
+      ],
+      "Rainfall": [
+        101.15,
+        119.04
+      ],
+      "PH": [
+        6.12,
+        7.86
+      ],
+      "Nitrogen": [
+        56.26,
+        69.48
+      ],
+      "Phosphorous": [
+        58.79,
+        145.23
+      ],
+      "Potassium": [
+        55.15,
+        145.63
+      ],
+      "Carbon": [
+        0.52,
+        2.49
+      ]
+    },
+    "sample": {
+      "Temperature": 15.78144173,
+      "Humidity": 92.51077745,
+      "Rainfall": 119.035002,
+      "PH": 6.354006744,
+      "Nitrogen": 59.65,
+      "Phosphorous": 72.96,
+      "Potassium": 64.57,
+      "Carbon": 1.89,
+      "Soil": "Peaty Soil"
+    }
+  },
+  {
+    "name": "papaya",
+    "count": 100,
+    "soils": [
+      "Loamy Soil",
+      "Neutral Soil"
+    ],
+    "mean": {
+      "Temperature": 33.73,
+      "Humidity": 92.4,
+      "Rainfall": 142.75,
+      "PH": 6.74,
+      "Nitrogen": 74.56,
+      "Phosphorous": 125.21,
+      "Potassium": 112.18,
+      "Carbon": 1.43
+    },
+    "ranges": {
+      "Temperature": [
+        23.68,
+        42.94
+      ],
+      "Humidity": [
+        90.2,
+        94.64
+      ],
+      "Rainfall": [
+        50.96,
+        240.49
+      ],
+      "PH": [
+        6.52,
+        6.99
+      ],
+      "Nitrogen": [
+        57.89,
+        94.63
+      ],
+      "Phosphorous": [
+        86.99,
+        149.1
+      ],
+      "Potassium": [
+        59.85,
+        148.12
+      ],
+      "Carbon": [
+        0.54,
+        2.46
+      ]
+    },
+    "sample": {
+      "Temperature": 35.21462816,
+      "Humidity": 91.49725058,
+      "Rainfall": 240.4899322,
+      "PH": 6.793245417,
+      "Nitrogen": 93.51,
+      "Phosphorous": 145.842,
+      "Potassium": 148.097,
+      "Carbon": 1.18,
+      "Soil": "Neutral Soil"
+    }
+  },
+  {
+    "name": "pomegranate",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Loamy Soil",
+      "Neutral Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 21.85,
+      "Humidity": 90.12,
+      "Rainfall": 107.52,
+      "PH": 6.43,
+      "Nitrogen": 61.77,
+      "Phosphorous": 94.8,
+      "Potassium": 86.14,
+      "Carbon": 1.51
+    },
+    "ranges": {
+      "Temperature": [
+        18.4,
+        24.82
+      ],
+      "Humidity": [
+        85.55,
+        94.64
+      ],
+      "Rainfall": [
+        102.86,
+        111.98
+      ],
+      "PH": [
+        5.68,
+        7.13
+      ],
+      "Nitrogen": [
+        59.79,
+        63.71
+      ],
+      "Phosphorous": [
+        50.46,
+        148.48
+      ],
+      "Potassium": [
+        50.63,
+        146.94
+      ],
+      "Carbon": [
+        0.52,
+        2.47
+      ]
+    },
+    "sample": {
+      "Temperature": 24.55981624,
+      "Humidity": 91.63536236,
+      "Rainfall": 111.9684622,
+      "PH": 5.922935513,
+      "Nitrogen": 63.7075,
+      "Phosphorous": 55.52,
+      "Potassium": 53.86,
+      "Carbon": 0.52,
+      "Soil": "Acidic Soil"
+    }
+  },
+  {
+    "name": "rice",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Loamy Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 23.69,
+      "Humidity": 82.27,
+      "Rainfall": 236.02,
+      "PH": 6.42,
+      "Nitrogen": 75.56,
+      "Phosphorous": 80.89,
+      "Potassium": 95.98,
+      "Carbon": 1.53
+    },
+    "ranges": {
+      "Temperature": [
+        20.28,
+        26.73
+      ],
+      "Humidity": [
+        80.28,
+        84.6
+      ],
+      "Rainfall": [
+        185.2,
+        290.71
+      ],
+      "PH": [
+        5.11,
+        7.63
+      ],
+      "Nitrogen": [
+        69.28,
+        83.54
+      ],
+      "Phosphorous": [
+        42.92,
+        147.46
+      ],
+      "Potassium": [
+        57.1,
+        147.52
+      ],
+      "Carbon": [
+        0.52,
+        2.41
+      ]
+    },
+    "sample": {
+      "Temperature": 20.87974371,
+      "Humidity": 82.00274423,
+      "Rainfall": 202.9355362,
+      "PH": 6.502985292,
+      "Nitrogen": 69.3,
+      "Phosphorous": 79.5,
+      "Potassium": 94.44,
+      "Carbon": 0.63,
+      "Soil": "Loamy Soil"
+    }
+  },
+  {
+    "name": "watermelon",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Loamy Soil",
+      "Neutral Soil",
+      "Peaty Soil"
+    ],
+    "mean": {
+      "Temperature": 25.59,
+      "Humidity": 85.17,
+      "Rainfall": 50.79,
+      "PH": 6.5,
+      "Nitrogen": 56.15,
+      "Phosphorous": 94.2,
+      "Potassium": 63.36,
+      "Carbon": 1.45
+    },
+    "ranges": {
+      "Temperature": [
+        24.29,
+        26.82
+      ],
+      "Humidity": [
+        80.45,
+        89.64
+      ],
+      "Rainfall": [
+        41.15,
+        58.99
+      ],
+      "PH": [
+        6.07,
+        6.93
+      ],
+      "Nitrogen": [
+        54.94,
+        57.65
+      ],
+      "Phosphorous": [
+        58.05,
+        147.81
+      ],
+      "Potassium": [
+        46.73,
+        123.92
+      ],
+      "Carbon": [
+        0.52,
+        2.49
+      ]
+    },
+    "sample": {
+      "Temperature": 26.47330219,
+      "Humidity": 80.92254421,
+      "Rainfall": 53.65742581,
+      "PH": 6.283818329,
+      "Nitrogen": 56.39,
+      "Phosphorous": 63.9,
+      "Potassium": 49.99,
+      "Carbon": 1.39,
+      "Soil": "Acidic Soil"
+    }
+  },
+  {
+    "name": "wheat",
+    "count": 100,
+    "soils": [
+      "Acidic Soil",
+      "Neutral Soil"
+    ],
+    "mean": {
+      "Temperature": 27.06,
+      "Humidity": 55.05,
+      "Rainfall": 119.28,
+      "PH": 6.49,
+      "Nitrogen": 59.92,
+      "Phosphorous": 75.36,
+      "Potassium": 82.54,
+      "Carbon": 1.5
+    },
+    "ranges": {
+      "Temperature": [
+        21.32,
+        33.23
+      ],
+      "Humidity": [
+        50.54,
+        59.48
+      ],
+      "Rainfall": [
+        81.96,
+        159.64
+      ],
+      "PH": [
+        6.09,
+        6.9
+      ],
+      "Nitrogen": [
+        55.8,
+        64.89
+      ],
+      "Phosphorous": [
+        47.89,
+        147.04
+      ],
+      "Potassium": [
+        53.65,
+        145.33
+      ],
+      "Carbon": [
+        0.5,
+        2.47
+      ]
+    },
+    "sample": {
+      "Temperature": 31.48468379,
+      "Humidity": 50.66105961,
+      "Rainfall": 81.96083518,
+      "PH": 6.898283926,
+      "Nitrogen": 56.97,
+      "Phosphorous": 147.0379,
+      "Potassium": 143.13,
+      "Carbon": 0.5,
+      "Soil": "Neutral Soil"
+    }
+  }
+]

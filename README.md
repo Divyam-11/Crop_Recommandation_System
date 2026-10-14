@@ -1,5 +1,23 @@
 # Crop Recommendation System
 
+## Agroterra field intelligence dashboard
+
+The React frontend now includes an agricultural workspace inspired by olive and forest green dashboard designs:
+
+- Editable circular climate gauges and soil/nutrient inputs connected to the original `/predict` model endpoint.
+- GPS location, city search, clickable Leaflet maps, street/satellite layers, and an expanded map view.
+- Seven day Open-Meteo forecast with current temperature/humidity import. Rainfall and soil measurements remain explicit user inputs.
+- Searchable crop explorer with 31 profiles generated from the 3,100 rows in `crop_recommendation_dataset.csv`, including recorded averages, ranges, and example scenarios.
+- Result radar chart and descriptive dataset comparisons. Similar crops use a separate normalized distance heuristic; no model probability or yield estimate is presented.
+- Browser-local saved analyses, restore actions, and JSON report downloads.
+- Responsive desktop/mobile layouts, keyboard-accessible controls, and dialogs.
+
+GPS requires browser location permission. Map, weather, city search, fonts, and photographs require internet access. Soil and nutrient data are not inferred from GPS. Saved reports remain in the current browser's local storage.
+
+For Windows development, start `python app.py` in the repository root and `npm run dev` in `frontend`. Vite proxies `/predict` and `/health` to Flask on port 5000. Open `http://localhost:5173`.
+
+The crop profile data is descriptive of this project's dataset and is not a fertilizer prescription. Carbon is displayed on the dataset's content scale because a consistent unit is not documented.
+
 This is a full-stack web application that recommends the best crop to grow based on environmental factors. It uses a machine learning model to provide accurate predictions, helping farmers make informed decisions for sustainable and productive agriculture.
 
 ## Features
